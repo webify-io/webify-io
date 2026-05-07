@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/branding/webify-logo.svg" alt="Webify" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/webify-io/webify-assets@main/webify-branding/logo.png" alt="Webify" height="60" />
 
 ### Building elegant, scalable digital experiences.
 
